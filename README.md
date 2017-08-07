@@ -1,2 +1,2 @@
 # DataScienceLearning
-some projects of learning data science
+Projects on DataScienceSpecialization
